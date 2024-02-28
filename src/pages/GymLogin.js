@@ -64,7 +64,7 @@ function GymLogin() {
                             <div className='login_page-forgot'>
                                 <Link to="">パスワードをお忘れの方はこちら</Link>
                             </div>
-                            <Button variant="contained" color="success" onClick={handleLogin}>ログイン</Button>
+                            <Button variant="contained" color="success" onClick={handleLogin}>ログイン123</Button>
                         </form>
                     </div>
                     <div className='login_page-tosignup'>
